@@ -1,4 +1,5 @@
 =============================
+
 JavaScript Test Assignment
 =============================
 
@@ -6,6 +7,7 @@ The challenge consists of 5 main parts(as shown with Requirement List on the lef
 each part will be discussed shortly.
 
 Getting Started.
+
 First of all, it is worth to say that challenge could be implemented using either Promises or callbacks.
 Second one is superior to the other. While it is possible to handle asyncronous code with callbacks, as 
 the size of project growth it will become hard to maintain it. The best things about Promises are 
