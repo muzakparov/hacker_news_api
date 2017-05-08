@@ -16,6 +16,7 @@ readability and composability of the code.
 Solution is static website that was deployed on Github Pages.
 
 Structure:
+
 index. html - the html boilerplate with its main table tag where all the fetched data will be appended;
 main.css - basic styling with CSS (mostly I used Bootstrap framework for styling)
 main.js - the most important file where fetching of data occurs, it was commented
