@@ -1,5 +1,5 @@
 <p>========================================</p>
-<h1>JavaScript Promises Challenge</h1>
+<h1><a href="https://muzakparov.github.io/hacker_news_api/">JavaScript Promises Challenge</a></h1>
 <p>========================================</p>
 
 <p>The challenge consists of 5 main parts(as shown with Requirement List on the left-hand side), 
