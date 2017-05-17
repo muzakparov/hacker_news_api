@@ -12,7 +12,7 @@ Second one is superior to the other. While it is possible to handle asyncronous 
 the size of project growth it will become hard to maintain it. The best things about Promises are 
 readability and composability of the code.</p>
 
-<p>Solution is static website that was deployed on <a target="_blank" href="https://muzakparov.github.io/hacker_news_api/">Github Pages</a>.</p>
+<p>Solution is static website that was deployed on <a href="https://muzakparov.github.io/hacker_news_api/" target="_blank">Github Pages</a>.</p>
 
 <h3>Structure:</h3>
 
