@@ -49,5 +49,5 @@ readability and composability of the code.</p>
     document methods like getElementsByTagName are used as well as innerHTML
 
 
-<p>Please check comments on <a target="_blank" href="https://github.com/muzakparov/hacker_news_api/tree/gh-pages/public/javascript">main.js</a>.</p>
+<p>Please check comments on <a target="_blank" href="https://github.com/muzakparov/hacker_news_api/blob/gh-pages/public/javascript/main.js">main.js</a>.</p>
     
