@@ -1,6 +1,6 @@
-<p>=============================</p>
+<p>=======================================</p>
 <h1>JavaScript Promises Challenge</h1>
-<p>=============================</p>
+<p>=======================================</p>
 
 <p>The challenge consists of 5 main parts(as shown with Requirement List on the left-hand side), 
 each part will be discussed shortly.</p>
